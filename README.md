@@ -1,8 +1,8 @@
 # StepIn-Mini-project
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-
+Build | Code Quality | Unity
+------|----------|-------
+[![C/C++ CI - Build Status](https://github.com/kothakotadeepika/STEPin-MiniProject-C/actions/workflows/c%20CI.yml/badge.svg)](https://github.com/kothakotadeepika/STEPin-MiniProject-C/actions/workflows/c%20CI.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/kothakotadeepika/STEPin-MiniProject-C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/kothakotadeepika/STEPin-MiniProject-C/actions/workflows/cppcheck.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/kothakotadeepika/STEPin-MiniProject-C/actions/workflows/code%20q%20dynamic.yml/badge.svg)](https://github.com/kothakotadeepika/STEPin-MiniProject-C/actions/workflows/code%20q%20dynamic.yml) [![CI-Coverage](https://github.com/kothakotadeepika/STEPin-MiniProject-C/actions/workflows/gcov.yml/badge.svg)](https://github.com/kothakotadeepika/STEPin-MiniProject-C/actions/workflows/gcov.yml)| [![Unit Testing - Unity](https://github.com/kothakotadeepika/STEPin-MiniProject-C/actions/workflows/unity.yml/badge.svg)](https://github.com/kothakotadeepika/STEPin-MiniProject-C/actions/workflows/unity.yml) |
 
 ## Folder structure:
 
