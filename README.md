@@ -2,7 +2,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI - Build Status](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/c%20CI.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/c%20CI.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/cppcheck.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/code%20q%20dynamic.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/code%20q%20dynamic.yml) [![CI-Coverage](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/gcov.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/gcov.yml)| [![Unit Testing - Unity](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/unity.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/gitinspector.yml)
+
 
 ## Folder structure:
 
@@ -17,7 +17,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 |PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |:---:|:---:|:---:|:---:|:---:|
-|`99006068` | UdayKumar Samala  | Complete project   | 6   | 6     |
+|`99006453` | kothakotadeepika  | Complete project   | 6   | 6     |
     
 
 ## Challenges Faced and How Was It Overcome
